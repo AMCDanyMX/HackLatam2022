@@ -7259,7 +7259,7 @@ html.rd-navbar-fixed-linked .page {
 	margin-left: 5px;
 	text-align: center;
 	cursor: pointer;
-	color: #2c343b;
+	color: #ffffff;
 }
 
 .rd-navbar-sidebar .rd-nav-item > .rd-navbar-submenu-toggle:hover,
@@ -7310,7 +7310,7 @@ html.rd-navbar-fixed-linked .page {
 .rd-navbar-sidebar .rd-megamenu-list li > a,
 .rd-navbar-sidebar .rd-megamenu-list li > a:focus,
 .rd-navbar-sidebar .rd-megamenu-list li > a:active {
-	color: #8b8b9a;
+	color: #ffffff;
 }
 
 .rd-navbar-sidebar .rd-navbar-dropdown li > a:hover,
