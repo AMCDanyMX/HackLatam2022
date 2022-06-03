@@ -1176,7 +1176,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-gray-700 {
-	background-color: #2c343b;
+	background-color: #ffffff;
 }
 
 .bg-gray-700:not([style*="background-"]) + .bg-gray-700:not([style*="background-"]) {
@@ -1926,7 +1926,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .context-dark .box-minimal p, .bg-gray-700 .box-minimal p, .bg-gray-900 .box-minimal p, .bg-primary .box-minimal p {
-	color: #8b8b9a;
+	color: #ffffff;
 }
 
 /** @section Groups */
@@ -2296,7 +2296,7 @@ html .group-custom > * {
 	min-width: 25px;
 	content: '\f105';
 	font: 400 16px/22px 'FontAwesome';
-	color: #8c8c9a;
+	color: #ffffff;
 }
 
 .list-marked > li:hover:before {
@@ -2304,7 +2304,7 @@ html .group-custom > * {
 }
 
 .list-marked a, .list-marked a:focus, .list-marked a:active {
-	color: #8c8c9a;
+	color: #ffffff;
 }
 
 .list-marked a:hover {
@@ -2341,7 +2341,7 @@ p + .list-marked {
 	left: 0;
 	display: inline-block;
 	width: 15px;
-	color: #b2b2c5;
+	color: #ffffff;
 }
 
 .list-ordered > li + li {
@@ -2373,7 +2373,6 @@ img {
 }
 
 .images-box-item img {
-	box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
 }
 
 .images-box-item-left {
