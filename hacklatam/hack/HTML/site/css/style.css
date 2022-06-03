@@ -1854,7 +1854,6 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .block-about-img {
-	box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
 }
 
 * + .block-about-img {
@@ -3138,11 +3137,9 @@ hr {
 }
 
 .button-shadow {
-	box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
 }
 
 .button-shadow:hover {
-	box-shadow: 0 9px 10px 0 rgba(204, 204, 204, 0.15);
 }
 
 .button-shadow:focus, .button-shadow:active {
@@ -4750,7 +4747,6 @@ hr {
 	text-align: left;
 	background-color: #151515;
 	border-radius: 0;
-	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15);
 	font-size: 16px;
 }
 
@@ -4899,7 +4895,6 @@ hr {
 }
 
 .bg-default .speaker {
-	box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
 }
 
 .speaker-classic {
@@ -6684,7 +6679,6 @@ html.tablet .ui-to-top {
 	height: 56px;
 	padding: 4px;
 	color: #ffffff;
-	box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.2);
 	background: #ffffff;
 }
 
@@ -6922,7 +6916,6 @@ html.tablet .ui-to-top {
 	visibility: hidden;
 	transition: .3s;
 	background-color: #ffffff;
-	box-shadow: 0 0 22px -4px rgba(255, 255, 255, 0.17);
 }
 
 .rd-navbar-fixed .rd-navbar-collapse.active {
@@ -7150,7 +7143,6 @@ html.rd-navbar-fixed-linked .page {
 	background: #ffffff;
 	transition: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
 	transform: translateX(100%);
-	box-shadow: 0 0 13px 0 rgba(204, 204, 204, 0.16);
 }
 
 .rd-navbar-sidebar .rd-navbar-nav-wrap.active {
@@ -7467,7 +7459,6 @@ html.rd-navbar-fixed-linked .page {
 	right: 0;
 	top: 0;
 	z-index: 1000;
-	box-shadow: 0 2px 10px 1px rgba(0, 0, 0, 0.1);
 }
 
 .rd-navbar-sidebar.rd-navbar--is-stuck .rd-navbar-main {
@@ -7514,7 +7505,6 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-classic.rd-navbar-static .rd-menu {
 	margin-top: 35px;
-	box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-megamenu-list-link,
@@ -7589,7 +7579,6 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-modern.rd-navbar-static .rd-menu {
 	margin-top: 35px;
-	box-shadow: 0 0 30px 0 rgba(255, 255, 255, 0.1);
 }
 
 .rd-navbar-modern.rd-navbar-static .rd-megamenu-list-link,
@@ -7655,7 +7644,6 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-modern.rd-navbar-static.rd-navbar--is-stuck, .rd-navbar-modern.rd-navbar-static.rd-navbar--is-clone {
 	background-color: #ffffff;
-	box-shadow: 1px 1px 10px 0 rgba(255, 255, 255, 0.2);
 }
 
 .rd-navbar-modern.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-aside-outer, .rd-navbar-modern.rd-navbar-static.rd-navbar--is-clone .rd-navbar-aside-outer {
