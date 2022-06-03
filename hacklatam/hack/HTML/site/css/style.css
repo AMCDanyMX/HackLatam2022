@@ -4804,6 +4804,10 @@ hr {
 	background-color: #ffffff;
 }
 
+.speakers-section{
+	background-color: #8100FD;
+}
+
 .speaker-img {
 	overflow: hidden;
 	position: relative;
