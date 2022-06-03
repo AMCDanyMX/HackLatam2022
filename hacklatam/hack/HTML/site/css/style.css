@@ -7590,7 +7590,7 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-modern.rd-navbar-static .rd-menu {
 	margin-top: 35px;
-	box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 30px 0 rgba(255, 255, 255, 0.1);
 }
 
 .rd-navbar-modern.rd-navbar-static .rd-megamenu-list-link,
@@ -7627,7 +7627,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-modern.rd-navbar-static .rd-nav-item > .rd-navbar-submenu-toggle {
-	color: #8c8c9a;
+	color: #ffffff;
 }
 
 .rd-navbar-modern.rd-navbar-static .rd-nav-item > .rd-navbar-submenu-toggle:hover {
@@ -7639,7 +7639,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-modern.rd-navbar-static .rd-nav-link, .rd-navbar-modern.rd-navbar-static .rd-nav-link:not([href]) {
-	color: #8c8c9a;
+	color: #ffffff;
 }
 
 .rd-navbar-modern.rd-navbar-static .rd-nav-link:hover {
@@ -7656,7 +7656,7 @@ html.rd-navbar-fixed-linked .page {
 
 .rd-navbar-modern.rd-navbar-static.rd-navbar--is-stuck, .rd-navbar-modern.rd-navbar-static.rd-navbar--is-clone {
 	background-color: #ffffff;
-	box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 1px 1px 10px 0 rgba(255, 255, 255, 0.2);
 }
 
 .rd-navbar-modern.rd-navbar-static.rd-navbar--is-stuck .rd-navbar-aside-outer, .rd-navbar-modern.rd-navbar-static.rd-navbar--is-clone .rd-navbar-aside-outer {
@@ -8296,7 +8296,7 @@ button.swiper-pagination-bullet {
 	bottom: 0px;
 	width: 100%;
 	height: 100%;
-	background: #000000;
+	background: #ffffff;
 	opacity: 0.6;
 	-webkit-filter: blur(50px);
 	filter: blur(50px);
@@ -10038,35 +10038,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-outer .lg-has-iframe .lg-video {
 	-webkit-overflow-scrolling: touch;
 	overflow: auto;
-}
-
-.lg-outer .lg-has-vimeo .lg-video-play {
-	background: url("../images/vimeo-play.png") no-repeat scroll 0 0 transparent;
-}
-
-.lg-outer .lg-has-vimeo:hover .lg-video-play {
-	background: url("../images/vimeo-play.png") no-repeat scroll 0 -58px transparent;
-}
-
-.lg-outer .lg-has-html5 .lg-video-play {
-	background: transparent url("../images/video-play.png") no-repeat scroll 0 0;
-	height: 64px;
-	margin-left: -32px;
-	margin-top: -32px;
-	width: 64px;
-	opacity: 0.8;
-}
-
-.lg-outer .lg-has-html5:hover .lg-video-play {
-	opacity: 1;
-}
-
-.lg-outer .lg-has-youtube .lg-video-play {
-	background: url("../images/youtube-play.png") no-repeat scroll 0 0 transparent;
-}
-
-.lg-outer .lg-has-youtube:hover .lg-video-play {
-	background: url("../images/youtube-play.png") no-repeat scroll 0 -60px transparent;
 }
 
 .lg-outer .lg-video-object {
