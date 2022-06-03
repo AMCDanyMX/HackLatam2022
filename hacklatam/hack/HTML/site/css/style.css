@@ -3044,8 +3044,8 @@ hr {
 }
 
 .button-primary:after {
-	background-image: -webkit-linear-gradient(left, #8100FD 0%, #822ea8 100%);
-	background-image: linear-gradient(to right, #8100FD 0%, #822ea8 100%);
+	background-image: -webkit-linear-gradient(left, #8100FD 0%, #8100FD 100%);
+	background-image: linear-gradient(to right, #8100FD 0%, #8100FD 100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF8100FD', endColorstr='#FF822EA8', GradientType=1);
 }
@@ -5216,8 +5216,8 @@ hr {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background-image: -webkit-linear-gradient(left, #822ea8 0%, #8100FD 100%);
-	background-image: linear-gradient(to right, #822ea8 0%, #8100FD 100%);
+	background-image: -webkit-linear-gradient(left, #8100FD 0%, #8100FD 100%);
+	background-image: linear-gradient(to right, #8100FD 0%, #8100FD 100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF822EA8', endColorstr='#FF8100FD', GradientType=1);
 	opacity: 0;
@@ -6509,7 +6509,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-megamenu-list-link {
-	color: #000000;
+	color: #38087a;
 	background: transparent;
 }
 
@@ -6551,7 +6551,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar-static .rd-navbar-search-toggle {
 	display: inline-flex;
-	color: #2c343b;
+	color: #ffffff;
 }
 
 .rd-navbar-static .rd-navbar-search-toggle span {
@@ -6684,7 +6684,7 @@ html.tablet .ui-to-top {
 	align-items: center;
 	height: 56px;
 	padding: 4px;
-	color: #8b8b9a;
+	color: #ffffff;
 	box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.2);
 	background: #ffffff;
 }
@@ -6761,7 +6761,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-nav-link, .rd-navbar-fixed .rd-nav-link:not([href]) {
-	color: #8b8b9a;
+	color: #ffffff;
 }
 
 .rd-navbar-fixed li.opened > .rd-navbar-dropdown {
@@ -6884,7 +6884,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar-fixed .rd-navbar-submenu-toggle {
 	cursor: pointer;
-	color: #8b8b9a;
+	color: #ffffff;
 }
 
 .rd-navbar-fixed .rd-navbar-submenu-toggle::after {
@@ -6923,7 +6923,7 @@ html.tablet .ui-to-top {
 	visibility: hidden;
 	transition: .3s;
 	background-color: #ffffff;
-	box-shadow: 0 0 22px -4px rgba(0, 0, 0, 0.17);
+	box-shadow: 0 0 22px -4px rgba(255, 255, 255, 0.17);
 }
 
 .rd-navbar-fixed .rd-navbar-collapse.active {
