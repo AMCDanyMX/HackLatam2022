@@ -41,25 +41,6 @@
  *     3.25 Sponsors
  *     3.26 Schedule
  *     3.27 Footers
- *   4 Plugins
- *     4.1 Animate
- *     4.2 Preloader
- *     4.3 ToTop
- *     4.4 RD Navbar
- *     4.5 Swiper
- *     4.6 Google Map
- *     4.7 Search Results
- *     4.8 Nav custom
- *     4.9 Panel custom
- *     4.10 Tooltop Custom
- *     4.11 Counter
- *     4.12 Progress Bars
- *     4.13 Progress Circle
- *     4.14 Countdown
- *     4.15 Lightgallery
- *     4.16 Material Parallax
- *     4.17 Bootstrap Modal
- *     4.18 Video
  */
 a:focus,
 button:focus {
@@ -151,7 +132,7 @@ html p a:hover {
 /* Works on Firefox */
 * {
 	scrollbar-width: thin;
-	scrollbar-color: blue orange;
+	scrollbar-color: #8100FD;;
   }
   
   /* Works on Chrome, Edge, and Safari */
@@ -1643,7 +1624,17 @@ h5 + p,
 }
 
 .event-detail-time {
-	color: #8100FD;
+	color: #ffffff;
+}
+
+
+.event-detail-address {
+	color: #ffffff;
+}
+
+
+.event-detail .big {
+	color: #ffffff;
 }
 
 .event-detail-link {
@@ -2618,11 +2609,11 @@ a.icon[class*='youtube']:hover {
 	transition: .3s ease-out all;
 }
 
-.icon-rect.icon-white[class*='facebook'], .icon-rect.icon-white[class*='twitter'], .icon-rect.icon-white[class*='linkedin'], .icon-rect.icon-white[class*='youtube'] {
+.icon-rect.icon-white[class*='facebook'], .icon-rect.icon-white[class*='twitter'], .icon-rect.icon-white[class*='linkedin'], .icon-rect.icon-white[class*='youtube'], .icon-rect.icon-white[class*='instagram'] {
 	color: #38087a;
 }
 
-.icon-rect.icon-white[class*='facebook']:hover, .icon-rect.icon-white[class*='twitter']:hover, .icon-rect.icon-white[class*='linkedin']:hover, .icon-rect.icon-white[class*='youtube']:hover {
+.icon-rect.icon-white[class*='facebook']:hover, .icon-rect.icon-white[class*='twitter']:hover, .icon-rect.icon-white[class*='linkedin']:hover, .icon-rect.icon-white[class*='youtube']:hover,  .icon-rect.icon-white[class*='instagram']:hover{
 	color: #ffffff;
 }
 
@@ -5024,6 +5015,7 @@ hr {
 	opacity: 1;
 }
 
+
 .sponsor-overlay {
 	z-index: -1;
 	border-top-color: rgba(248, 247, 244, 0.6);
@@ -5618,7 +5610,7 @@ hr {
 	padding-bottom: 25px;
 	font-weight: 400;
 	text-align: center;
-	color: #b2b2c5;
+	color: #ffffff;
 	background: #38087a;
 }
 
@@ -5627,7 +5619,7 @@ hr {
 }
 
 .footer-classic a:hover {
-	color: #8100FD;
+	color: #ffffff;
 }
 
 .footer-classic a:hover {
@@ -11815,6 +11807,10 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	overflow: hidden;
 }
 
+.parallax-container p{
+	color: white;
+}
+
 .material-parallax {
 	position: absolute;
 	top: 0;
@@ -14099,4 +14095,8 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 	content: "+";
   }
   
+
+ .container .derechos{
+	  color: white;
+  }
   
