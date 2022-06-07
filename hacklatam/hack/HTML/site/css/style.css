@@ -2706,8 +2706,8 @@ a.icon[class*='linkedin']:hover {
 }
 
 .icon-rect-secodanry {
-	background-image: -webkit-linear-gradient(left, #ef7630 0%, #f09922 100%);
-	background-image: linear-gradient(to right, #ef7630 0%, #f09922 100%);
+	background-color: #8100FD;
+	background-image: #8100FD;
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEF7630', endColorstr='#FFF09922', GradientType=1);
 }
